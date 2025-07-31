@@ -25,3 +25,5 @@ navegador web
 opcional 
 git 
 IDE de desarrollo
+
+Nuevo cambio desde web
